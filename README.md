@@ -11,8 +11,7 @@ Retrieval-Augmented Generation (RAG) system built with LangChain, ChromaDB vecto
 
 ## 🛠️ Architecture & Highlights
 - **Production Modular Design**: Standard clean code layout with runnable script entry point.
-- **CI/CD Integrated**: Automated GitHub Actions integration workflow for testing & linting.
-- **Extensible**: Ready for cloud deployment, microservice wrapping, or educational analysis.
+- **Extensible**: Ready for cloud deployment, Docker microservice wrapping, or educational analysis.
 
 ---
 
